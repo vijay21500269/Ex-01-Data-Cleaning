@@ -45,7 +45,7 @@ df.isnull().sum()
 ![image2](https://github.com/vijay21500269/Ex-01-Data-Cleaning/blob/main/DS%20img%202.png)
 # NON NULL BEFORE:
 ![image3](https://github.com/vijay21500269/Ex-01-Data-Cleaning/blob/main/Ds%20mg%203.png)
-![image4]()
+![image4](https://github.com/vijay21500269/Ex-01-Data-Cleaning/blob/main/DS%20img%204.png)
 ![image5]()
 # MODE:
 ![image6]()
