@@ -55,7 +55,7 @@ df.isnull().sum()
 ![image8](https://github.com/vijay21500269/Ex-01-Data-Cleaning/blob/main/Ds%20img%208.png)
 # NON NULL AFTER:
 ![image9](https://github.com/vijay21500269/Ex-01-Data-Cleaning/blob/main/DS%20img%209.png)
-![image10]()
+![image10](https://github.com/vijay21500269/Ex-01-Data-Cleaning/blob/main/DS%20img%2010.png)
 # RESULT:
 Thus,the given data is read,cleansed and the cleaned data is saved into the file.
 
