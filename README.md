@@ -41,7 +41,7 @@ df.isnull().sum()
 ~~~
 # OUPUT
 # DATA:
-![image1]()
+![image1](https://github.com/vijay21500269/Ex-01-Data-Cleaning/blob/main/Ds%20image%201.png)
 ![image2]()
 # NON NULL BEFORE:
 ![image3]()
