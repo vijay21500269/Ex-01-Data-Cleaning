@@ -40,3 +40,28 @@ df.info()
 df.isnull().sum()
 ~~~
 # OUPUT
+# DATA:
+![image1]()
+![image2]()
+# NON NULL BEFORE:
+![image3]()
+![image4]()
+![image5]()
+# MODE:
+![image6]()
+# MEAN:
+![image7]()
+# MEDIAN:
+![image8]()
+# NON NULL AFTER:
+![image9]()
+![image10]()
+# RESULT:
+Thus,the given data is read,cleansed and the cleaned data is saved into the file.
+
+
+
+
+
+
+
