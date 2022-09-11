@@ -48,7 +48,7 @@ df.isnull().sum()
 ![image4](https://github.com/vijay21500269/Ex-01-Data-Cleaning/blob/main/DS%20img%204.png)
 ![image5](https://github.com/vijay21500269/Ex-01-Data-Cleaning/blob/main/Ds%20img%205.png)
 # MODE:
-![image6]()
+![image6](https://github.com/vijay21500269/Ex-01-Data-Cleaning/blob/main/Ds%20img%206.png)
 # MEAN:
 ![image7]()
 # MEDIAN:
